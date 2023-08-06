@@ -1,0 +1,28 @@
+Practical No : 1
+
+Aim: Installing and setting up the Python IDLE interpertor.
+Executing simple statements on shell and creating simple programs based on assignment, input and print.
+
+Working with Python IDLE/Shell
+
+>>>'mudassar'
+>>>type('mudassar')
+>>>type(1)
+>>>type(1.1)
+>>> 6+5
+>>> 5-10
+>>> 8*6
+>>> 5/2
+>>> 5%2
+>>> 5//2
+>>> 7**2
+>>> 9**3
+
+------------------
+
+print("Hello from MD Ansari")
+print('Welcome to the World of Programming')
+print("""My Name is
+	Mudassar.
+	I am doing PYTHON
+	Practical""")

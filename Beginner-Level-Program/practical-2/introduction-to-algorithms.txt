@@ -1,0 +1,40 @@
+Date: 15/12/20
+Practical No: 2
+Aim: To perform different Arithemetic Operation.
+
+Q 1) Write a python program to calculate average of 3 numbers and 5 numbers.
+
+Algorithm:
+1) start
+2) accept a,b,c,d,e from user
+3) calculate avg3=(a+b+c)/3
+4) calculate avg5=(a+b+c+d+e)/5
+5) print avg3
+6) print avg5
+7) stop
+
+Q 2) Write a python program to calculate total and percentage of three subject marks entered by user.
+
+Algorithm:
+1) start
+2) accept 3 subject marks m1,m2 & m3
+3) calculate total=m1+m2+m3    
+4) calculate percent=(total/300)*100
+5) display total and percent
+6) stop
+
+
+Q 3) Write a python program to calculate simple interest.
+
+si=(p*n*r)/100
+p-principal amount
+n- month/year
+r- rate of interest
+
+simple interest algorithm
+
+1) start
+2) accept principal amount(p),no.of years(n),rate of interest(r)
+3) calculate simple interest(si) [Formula : si=(p*n*r)/100]
+4) show simple interest
+5) stop
