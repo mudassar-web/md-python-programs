@@ -6,3 +6,11 @@
 ### Note : All programs are created in Python 3.4.4
 
 ### For any further queries contact : mudassar.ansari@gmail.com
+
+## Authors
+
+- [@mudassar-web](https://github.com/mudassar-web)
+
+## License
+
+[MIT License](LICENSE)
